@@ -1,0 +1,11 @@
+http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm
+
+https://github.com/hashemsellat/video-anomaly-detection
+
+https://towardsdatascience.com/prototyping-an-anomaly-detection-system-for-videos-step-by-step-using-lstm-convolutional-4e06b7dcdd29
+
+https://arxiv.org/pdf/1701.01546.pdf
+
+https://miroslawmamczur.pl/jak-dzialaja-konwolucyjne-sieci-neuronowe-cnn/
+
+
